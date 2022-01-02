@@ -1,7 +1,5 @@
 <h1 align='center'>Greetings!!! I'm Alvaro Israel 🇧🇷</h1>
 
-<h5 align='center'>If you are here, please leave a ⭐️ at <a href='https://github.com/AlvaroIsrael/gobarber-app'>Go
-Barber App</a>! Show your support! 👍🏻</h6>
 
 <img align='right' width='174' height='190' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
 
@@ -59,6 +57,8 @@ export default Profile;
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+![Netbeans](https://img.shields.io/badge/-Netbeans-000?&logo=netbeans&logoColor=47A248)
+
 
 **Stay in touch:**
 
